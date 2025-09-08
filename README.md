@@ -4,7 +4,7 @@ Proactive soon-to-graduate KTH computer science student and problem-solver with 
 
 Projects:
 - [GhostLeaks](https://saitejaschintapall.wixsite.com/ghostleaks/), a VR game for Android. Check it out!
-- [Flappy Fish](https://github.com/arnobds/ComputerHardwareEngineering), a Flappy Bird-style interactive game programmed in C on a PIC32 microcontroller with a display. Includes the ability for players to enter their initials, and implemented a persistent highscore table as well as pixel by pixel movement for smoother gameplay.
+- [Flappy Fish](https://github.com/arnobds/ComputerHardwareEngineering), a Flappy Bird-style interactive game programmed in C on a PIC32 microcontroller. Includes the ability for players to enter their initials, and a persistent highscore table as well as pixel by pixel movement for smoother gameplay.
 - [AI-Driven Quality Assurance for Sustainable Recycling of Excavated Construction Materials](https://github.com/arnobds/DigitalisationAndInnovationForSustainableDevelopment/blob/main/Report.pdf), contributed to research and design an AI-based system for real-time quality control of recycled aggregates in the construction industry with Ecoloop.
 
 📫 How to reach me: arnobds5@gmail.com
