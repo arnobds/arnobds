@@ -1,8 +1,8 @@
 ## Hi There 👋
 
-Proactive soon-to-graduate KTH computer science student and problem-solver with expertise in Java/C, object-oriented & concurrent programming, agile methodologies, and networking protocols. I specialize in building robust, efficient solutions that perform under pressure, and I thrive in collaborative environments where challenges require both technical skill and creative thinking. Known for my adaptability and hardworking nature, I work to elevate team performance while fostering a positive, productive work culture that drives results.
+Proactive soon-to-graduate KTH computer science student and problem-solver with expertise in Java/C, object-oriented & concurrent programming, agile methodologies, and networking protocols. I specialize in building robust, efficient solutions that perform under pressure, and I thrive in collaborative environments where challenges require both technical skill and creative thinking.
 
-Projects:
+Check out some of my projects below:
 - [GhostLeaks](https://saitejaschintapall.wixsite.com/ghostleaks/), a VR game for Android. Check it out!
 - [Flappy Fish](https://github.com/arnobds/ComputerHardwareEngineering), a Flappy Bird-style interactive game programmed in C on a PIC32 microcontroller. Includes the ability for players to enter their initials, and a persistent highscore table as well as pixel by pixel movement for smoother gameplay.
 - [AI-Driven Quality Assurance for Sustainable Recycling of Excavated Construction Materials](https://github.com/arnobds/DigitalisationAndInnovationForSustainableDevelopment/blob/main/Report.pdf), contributed to research and design an AI-based system for real-time quality control of recycled aggregates in the construction industry with Ecoloop.
