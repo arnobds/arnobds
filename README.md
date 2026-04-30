@@ -1,6 +1,6 @@
 ## Hi There 👋
 
-Proactive soon-to-graduate KTH computer science student and problem-solver with expertise in Java/C, object-oriented & concurrent programming, agile methodologies, and networking protocols. I specialize in building robust, efficient solutions that perform under pressure, and I thrive in collaborative environments where challenges require both technical skill and creative thinking.
+KTH computer science student and problem-solver with expertise in Java/C, object-oriented & concurrent programming, agile methodologies, and networking protocols. I specialize in building robust, efficient solutions that perform under pressure, and I thrive in collaborative environments where challenges require both technical skill and creative thinking.
 
 Check out some of my projects below:
 - [GhostLeaks](https://saitejaschintapall.wixsite.com/ghostleaks/), a VR game for Android.
